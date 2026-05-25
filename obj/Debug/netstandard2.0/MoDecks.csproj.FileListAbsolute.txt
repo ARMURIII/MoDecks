@@ -1,0 +1,15 @@
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\bin\Debug\netstandard2.0\MoDecks.deps.json
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\bin\Debug\netstandard2.0\MoDecks.dll
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\bin\Debug\netstandard2.0\MoDecks.pdb
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\bin\Debug\netstandard2.0\InscryptionAPI.dll
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\bin\Debug\netstandard2.0\InscryptionCommunityPatch.dll
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.csproj.AssemblyReference.cache
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.AssemblyInfoInputs.cache
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.AssemblyInfo.cs
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.csproj.CoreCompileInputs.cache
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.sourcelink.json
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.csproj.Up2Date
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.dll
+C:\Users\cleme\AppData\Roaming\r2modmanPlus-local\Inscryption\profiles\Setup\BepInEx\plugins\MoDecks\obj\Debug\netstandard2.0\MoDecks.pdb

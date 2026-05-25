@@ -1,0 +1,10 @@
+{
+  "name": "MoDecks",
+  "version_number": "1.4.2",
+  "description": "Tired of the 8 vanilla starter decks? Here's a mod that adds 29 Starter decks! more will be added, credits to DragonSlayr15001, Void Ghost, Syntaxevasion, Makako and Extraordinora for their Art.",
+  "dependencies": [
+    "BepInEx-BepInExPack_Inscryption-5.4.1901",
+    "API_dev-API-2.1.0"
+  ],
+  "website_url": ""
+}
