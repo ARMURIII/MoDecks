@@ -41,7 +41,6 @@ namespace MoDecks
 			{
 				(CardAppearanceBehaviour.Appearance) 2
 			});
-			base.Logger.LogInfo("Registering Decks");
 			StarterDeckInfo starterDeckInfo = ScriptableObject.CreateInstance<StarterDeckInfo>();
 			starterDeckInfo.title = "Prospector's Beasts";
 			starterDeckInfo.iconSprite = Tools.ConvertTexToSprite(Tools.LoadTex("MoDecks/NewDeckIcons/ProspectorDeck.png"), null);
@@ -332,7 +331,6 @@ namespace MoDecks
 				CardLoader.GetCardByName("Wolf")
 			};
 			StarterDeckManager.Add("sire.inscryption.modecks", starterDeckInfo29, 11);
-			base.Logger.LogInfo("Registered Decks !");
 			CardExtensions.SetPortrait(CardExtensions.CardByName(CardManager.BaseGameCards, "Salmon"), Tools.LoadTex("MoDecks/Resources/inscryption-salmon.png"), null);
 			CardExtensions.SetPortrait(CardExtensions.CardByName(CardManager.BaseGameCards, "SquirrelBall"), Tools.LoadTex("MoDecks/Resources/portrait_squirrelball.png"), null);
 			CardExtensions.SetPortrait(CardExtensions.CardByName(CardManager.BaseGameCards, "Hawk"), Tools.LoadTex("MoDecks/Resources/Act1Hawk.png"), null);

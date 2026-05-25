@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Tired of the 8 vanilla starter decks? Here\'s a mod that adds 29 Starter decks! mo" +
     "re will be added"))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.4.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.4.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.4.2+98d759e11b15e0e90e5a29a09da33bc42228a759")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoDecks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoDecks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.4.2.0")]
